@@ -1,6 +1,4 @@
-Here is an HTML document that creates an interactive Spider-Man themed animation for your GitHub page.
 
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
